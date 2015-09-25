@@ -12,6 +12,6 @@ Install the following global modules:
 * protractor
 * grunt-cli
 
-Be sure to run '$ bower install' and '$ npm install' to get all required packages.
+Be sure to run `$ bower install` and `$ npm install` to get all required packages.
 
 App should run on localhost:3000
